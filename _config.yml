@@ -1,4 +1,3 @@
-layout_spectrum: 0.3683755351230502
 typography_spectrum: 0.7883952939882874
 color:
   brandStrength: 0.7931137576233596
@@ -11,5 +10,7 @@ color:
     - '#8F9E8B'
     - '#F2E6B6'
     - '#412A22'
+layout_spectrum: 0.3683755351230502
 name: Grace R Us
 title: Grace R Us
+description: Our God...Our Testimony
